@@ -1,0 +1,25 @@
+{
+  "name": "antd-theme-xian",
+  "version": "1.0.0",
+  "description": "西安海绵antd配色方案",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biofavor/antd-theme-xian.git"
+  },
+  "keywords": [
+    "antd",
+    "theme",
+    "xian",
+    "spongecity"
+  ],
+  "author": "biofavor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biofavor/antd-theme-xian/issues"
+  },
+  "homepage": "https://github.com/biofavor/antd-theme-xian#readme"
+}
